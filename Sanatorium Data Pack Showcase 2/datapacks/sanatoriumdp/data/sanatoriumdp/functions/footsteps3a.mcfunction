@@ -2,7 +2,7 @@
 playsound minecraft:block.dripstone_block.step ambient @a 
 
 ##loop (default: 135s)
-schedule function sanatoriumdp:footsteps1a 10s
+schedule function sanatoriumdp:footsteps1a 80s
 
 ##debug test
 title @a actionbar {"text":"ftsp3a Played!"}
