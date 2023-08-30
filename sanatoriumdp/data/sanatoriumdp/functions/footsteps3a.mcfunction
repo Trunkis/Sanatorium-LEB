@@ -1,8 +1,8 @@
 ##start fstp3a
-playsound minecraft:block.dripstone_block.step ambient @a 
+execute at @r run playsound minecraft:block.dripstone_block.step ambient @r ~ ~ ~ 1 0.5
 
 ##loop (default: 135s)
 schedule function sanatoriumdp:footsteps1a 80s
 
 ##debug test
-title @a actionbar {"text":"ftsp3a Played!"}
+say ftsp3a Played!

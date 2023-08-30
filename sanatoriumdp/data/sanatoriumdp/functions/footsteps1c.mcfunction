@@ -1,5 +1,5 @@
 ##start fstp1c
-playsound minecraft:block.wood.step ambient @a
+execute at @r run playsound minecraft:block.wood.step ambient @r ~ ~ ~ 1.5 0.5
 
 ##debug test
-title @a actionbar {"text":"ftsp1c Played!"}
+say ftsp1c Played!

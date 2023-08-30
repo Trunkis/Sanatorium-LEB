@@ -1,5 +1,5 @@
 ##start s1a
-playsound minecraft:ambient.soul_sand_valley.mood ambient @a 
+execute at @r run playsound minecraft:ambient.soul_sand_valley.mood ambient @r
 
 ##prepare s2a
 schedule function sanatoriumdp:soundlocation2a 75s
@@ -7,4 +7,4 @@ schedule function sanatoriumdp:soundlocation2a 75s
 schedule function sanatoriumdp:soundlocation1b 40s
 
 ##debug test
-title @a actionbar {"text":"S1a Played!"}
+say S1a Played!

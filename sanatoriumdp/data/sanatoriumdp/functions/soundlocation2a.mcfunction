@@ -1,8 +1,8 @@
 ##start s2a
-playsound minecraft:ambient.crimson_forest.mood ambient @a
+execute at @r run playsound minecraft:ambient.crimson_forest.mood ambient @r
 
 ##prepare s3a
 schedule function sanatoriumdp:soundlocation3a 75s
 
 ##debug test
-title @a actionbar {"text":"S2a Played!"}
+say S2a Played!

@@ -1,5 +1,5 @@
 ##start s1b
-playsound minecraft:ambient.basalt_deltas.loop ambient @a  
+execute at @r run playsound minecraft:ambient.basalt_deltas.loop ambient @r
 
 ##debug test
-title @a actionbar {"text":"S1B Played!"}
+say S1B Played!

@@ -1,8 +1,8 @@
 ##start fstp1b
-playsound minecraft:block.stem.step ambient @a
+execute at @r run playsound minecraft:block.stem.step ambient @r ~ ~ ~ 2 0.75
 
 ##continue footstep sequence
-schedule function sanatoriumdp:footsteps2b 10t
+schedule function sanatoriumdp:footsteps2b 15t
 
 ##debug test
-title @a actionbar {"text":"ftsp1b Played!"}
+say ftsp1b Played!

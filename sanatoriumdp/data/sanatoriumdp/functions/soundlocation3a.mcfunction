@@ -1,8 +1,8 @@
 ##start s3a
-playsound minecraft:ambient.underwater.loop.additions.ultra_rare ambient @a 
+execute at @r run playsound minecraft:ambient.underwater.loop.additions.ultra_rare ambient @r
 
 ##loop back to preparing s1a
 schedule function sanatoriumdp:soundlocation1a 75s
 
 ##debug test
-title @a actionbar {"text":"S3a Played!"}
+say S3a Played!
