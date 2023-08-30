@@ -3,8 +3,7 @@
 ## An long abandoned Sanatorium set in the midst of the night at the northside of [Unnamed Place]
 
 # MAP FEATURES
-## - Horror Based (An non-scary version will come in the form of the remastered variant.)
-## - Comes with it's own dedicated ambient focused Data Pack!
+## - Ambeince provided from it's own dedicated Data Pack (An non-scary version will come in the form of the remastered variant.)
 ## -
 
 # CREDITS | MOST TO LEAST CONTRIBUTED
