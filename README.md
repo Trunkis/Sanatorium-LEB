@@ -6,9 +6,8 @@
 ## - Ambience provided from it's own dedicated Data Pack (An non-scary version will come in the form of the remastered variant.)
 ## -
 
-# CREDITS | MOST TO LEAST CONTRIBUTED
+# CREDITS | Solo
 ## Icement - Project Creator and Data Pack Creator.
-## Name - 
 
 # SCREENSHOTS
 - Enter Screenshot Here -
