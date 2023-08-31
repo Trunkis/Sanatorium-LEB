@@ -16,6 +16,6 @@
 # DATA PACK INSTALLATION
 ## Note: Data Packs are only in Java edition and another note is you are allowed to do anything you want with the Data Pack.
 ## 1. Press the green code button or head to the releases page and download ZIP.
-## 2. In the folder. There will be 2 versions of the Data Pack. First being the Map version (sanatoriumdp) and second being the Survival version (sanatoriumdpsurvival). Map version is made for the Sanatorium map and has all sound times changed to be way faster while the Survival version has long sound times. These sound times can be changed in their .mcfunction files.
+## 2. In the folder. There will be 2 editions of the Data Pack. First being the Map edition (sanatoriumdp) and second being the Survival edition (sanatoriumdpsurvival). Map edition is made for the Sanatorium map and has all sound times changed to be way faster while the Survival edition has long sound times and removed annoying debug text. These sound times can be changed in their .mcfunction files.
 ## 3. Find your minecraft saves directory and put either version in the datapacks folder of any save.
 ## 4. Play the world you put the Data Pack in and your finished!
