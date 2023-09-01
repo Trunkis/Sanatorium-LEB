@@ -7,6 +7,7 @@ schedule function sanatoriumdp:bang1a 100s
 schedule function sanatoriumdp:bang1b 130s
 schedule function sanatoriumdp:paranormal1a 165s
 schedule function sanatoriumdp:paranormal1b 60s
+schedule function sanatoriumdp:paranormal1c 240s
 schedule function sanatoriumdp:soundlocation1b 115s
 schedule function sanatoriumdp:soundlocation2a 85s
 schedule function sanatoriumdp:soundlocation3a 55s
