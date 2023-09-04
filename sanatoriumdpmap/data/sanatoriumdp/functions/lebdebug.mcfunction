@@ -1,0 +1,2 @@
+##prompt Player
+tellraw @a[tag=debug] ["",{"text":"- Sanatorium Ambience ","color":"white"},{"text":"LEB","color":"#E70056"},{"text":" -","color":"white"},{"text":"\n"},{"text":"It looks like you have debug enabled...\nWould you like to enable Sanatorium Ambience's Debug?","color":"#FDFF00"},{"text":"\n"},{"text":"[ Enable ]","color":"#980002","clickEvent":{"action":"run_command","value":"/tag @s add sa.debug"}},{"text":"\n"},{"text":"[ Disable ]","color":"#67FFCE","clickEvent":{"action":"run_command","value":"/tag @s remove sa.debug"}}]

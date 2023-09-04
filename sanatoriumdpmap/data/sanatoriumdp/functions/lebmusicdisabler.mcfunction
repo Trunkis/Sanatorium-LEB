@@ -1,0 +1,1 @@
+scoreboard players set #Store lem.muspack 255
