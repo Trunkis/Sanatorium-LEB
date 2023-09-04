@@ -17,12 +17,14 @@
 
 # Modrinth: https://modrinth.com/mod/sanatoriumambience
 ## 1. Press the green download button for any release fit.
-## 2. Put either Map/Survival edition in a world in your Minecraft instance.
+## 2. Put either Map|LEB/General edition in a world in your Minecraft instance.
 ## 3. Play the world with the Data Pack to finish.
+## The probability can be changed in their .json files located in the predicates folder.
 
 # GitHub:
 ## 1. Press the green code button or head to the releases page and download ZIP.
-## 2. In the folder. There will be 2 editions of the Data Pack. First being the Map edition (sanatoriumdp) and second being the Survival edition (sanatoriumdpsurvival). Map edition is made for the Sanatorium map and has all sound times changed to be way faster while the Survival edition has long sound times and removed annoying debug text. These sound times can be changed in their .mcfunction files.
+## 2. In the folder. There will be 2 editions of the Data Pack. First being the Map/LEB edition (sanatoriumdp) and second being the General edition (sanatoriumdgeneral). Map/LEB edition is made for the Sanatorium map and has all probability happen more often while the General edition has probability happen less often and removed annoying debug text. 
 ## 3. Find your minecraft instance saves directory and put either version in the datapacks folder of any save.
 ## 4. Play the world you put the Data Pack in and your finished!
 ## The map comes packaged with the Map edition of the Data Pack so no need to do this for the map.
+## The probability can be changed in their .json files located in the predicates folder.
