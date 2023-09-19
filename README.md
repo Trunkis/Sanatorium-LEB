@@ -12,6 +12,8 @@
 # SCREENSHOTS
 - Enter Screenshot Here -
 
+## If you want to enable debug. use /trigger then find "sanatorium.config.debug" 0 is disabled by default, 1 is enabled.
+
 # DATA PACK INSTALLATION
 ## Note: Data Packs are only in Java edition and another note is you are allowed to do anything you want with the Data Pack.
 
