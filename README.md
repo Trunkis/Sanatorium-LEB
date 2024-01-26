@@ -4,10 +4,11 @@ An long abandoned Sanatorium from years ago set in the midst of the night at the
 
 # MAP FEATURES
 - Ambience provided from it's own dedicated Data Pack (An non-scary version will come in the form of the remastered variant.)
--
+- 
 
-# CREDITS | Solo
+# CREDITS |
 Icement - Project Creator and Data Pack Creator.
+Its_Ender_ - Builder
 
 # SCREENSHOTS
 - Enter Screenshot Here -
